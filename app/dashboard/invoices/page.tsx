@@ -5,7 +5,7 @@
 
 const InvoicesPage = () =>{
   return(
-    <p>Invoices Page!</p>
+    <p>Invoices Page! Test</p>
   )
 }
 
